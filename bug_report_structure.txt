@@ -1,0 +1,17 @@
+Title: A brief and descriptive title that summarizes the issue.
+
+Description: A clear and concise description of the issue, including what happened, what was expected to happen, and any relevant information that could help in identifying the problem.
+
+Steps to Reproduce: A list of steps that can be used to reproduce the issue. This can include specific actions taken, input values, and any other relevant details.
+
+Expected Outcome: A description of what was expected to happen if the issue had not occurred.
+
+Actual Outcome: A description of what actually happened, including any error messages or unexpected results.
+
+Severity: An assessment of the severity of the issue, including its impact on functionality, user experience, or other important factors.
+
+Environment: Information about the environment in which the issue occurred, such as the operating system, browser, device, and any other relevant details.
+
+Reproducibility: An indication of how frequently the issue can be reproduced, and whether it occurs consistently or sporadically.
+
+Attachments: Any relevant attachments, such as screenshots, error logs, or other supporting documents.
